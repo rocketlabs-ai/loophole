@@ -34,7 +34,7 @@ For each scenario, a three-judge panel evaluates whether your framework **holds*
 
 ## Live demo
 
-[loophole.vercel.app](https://loophole.vercel.app)
+[loophole-ecru.vercel.app](https://loophole-ecru.vercel.app)
 
 ## License
 
